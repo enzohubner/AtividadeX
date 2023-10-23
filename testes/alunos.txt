@@ -1,0 +1,6 @@
+nome:enzo
+idade:10
+curso:ppiu
+nome:jorge
+idade:15
+curso:pirulito
